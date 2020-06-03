@@ -1,4 +1,4 @@
-# llSPS-INT-727-Intelligent-Customer-Help-Desk-with-Smart-Document-Understanding
+# llSPS-INT-528-Intelligent-Customer-Help-Desk-with-Smart-Document-Understanding
 
 Intelligent Customer Helpdesk with Smart Document Understanding. This repository contains the project report and the Node-Red flow of the chatbot developed using various IBM Watson Services for backend and Node-Red for front end. 
 
